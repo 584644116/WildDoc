@@ -1,0 +1,7 @@
+Looking in indexes: https://pypi.tuna.tsinghua.edu.cn/simple
+Collecting PyQt5
+  Using cached https://pypi.tuna.tsinghua.edu.cn/packages/56/d5/68eb9f3d19ce65df01b6c7b7a577ad3bbc9ab3a5dd3491a4756e71838ec9/PyQt5-5.15.11-cp38-abi3-win_amd64.whl (6.9 MB)
+Requirement already satisfied: PyQt5-sip<13,>=12.15 in c:\users\z1515\appdata\local\programs\python\python313\lib\site-packages (from PyQt5) (12.17.0)
+Requirement already satisfied: PyQt5-Qt5<5.16.0,>=5.15.2 in c:\users\z1515\appdata\local\programs\python\python313\lib\site-packages (from PyQt5) (5.15.2)
+Installing collected packages: PyQt5
+Successfully installed PyQt5-5.15.11
